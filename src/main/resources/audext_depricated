@@ -1,0 +1,190 @@
+                        ".3GA - 3GPP Audio FileAverage\n" +
+                        ".AA - Audible Audio fileCommon\n" +
+                        ".AA3 - ATRAC3 Audio FileCommon\n" +
+                        ".AAC - Advanced Audio Coding FileVery Common\n" +
+                        ".AAX - Audible Enhanced AudiobookAverage\n" +
+                        ".ABC - Musical Notation Language Filenot specified\n" +
+                        ".AC3 - Dolby Digital Audio Codec 3 file formatAverage\n" +
+                        ".ACD - Acid Project FileAverage\n" +
+                        ".ACD-ZIP - Sony Acid Project File (Inc Embedded Data)Average\n" +
+                        ".ACM - InterPlay ACM Audio file formatAverage\n" +
+                        ".ACT - ADPCM Audio FileAverage\n" +
+                        ".ADG - Ableton Device GroupAverage\n" +
+                        ".ADTS - Audio Data Transport Stream file formatAverage\n" +
+                        ".AFC - Mass Effect 2 Audio FileAverage\n" +
+                        ".AHX - WinAHX Tracker Modulenot specified\n" +
+                        ".AIF - Audio Interchange FileVery Common\n" +
+                        ".AIFC - Audio Interchange File (Compressed)not specified\n" +
+                        ".AIFF - Audio Interchange FileVery Common\n" +
+                        ".AL - ALAW Format SoundAverage\n" +
+                        ".AMR - Adaptive Multi-Rate file formatCommon\n" +
+                        ".AMZ - Amazon MP3 Downloader Download FileCommon\n" +
+                        ".AOB - DVD-Audio Audio Object Filenot specified\n" +
+                        ".APC - Cryo APC Audio file formatUncommon\n" +
+                        ".APE - Monkeys Audio FileCommon\n" +
+                        ".APF - Sony Ericsson Acoustics Settings Filenot specified\n" +
+                        ".ATRAC - Sony ATRAC Audio Filenot specified\n" +
+                        ".AU - Sun Audio File FormatAverage\n" +
+                        ".AVR - Audio Visual Research filenot specified\n" +
+                        ".AWB - AMR-WB Audio Filenot specified\n" +
+                        ".AWB - Compressed Speech Audio Filenot specified\n" +
+                        ".BAP - Blaze Audio Wave Information Filenot specified\n" +
+                        ".BMW - BuzzPlay music with wavesAverage\n" +
+                        ".CAF - Core Audio FileCommon\n" +
+                        ".CDA - CD Audio Track ShortcutCommon\n" +
+                        ".CFA - Conformed Audio FileCommon\n" +
+                        ".CIDB - iTunes CD Information Filenot specified\n" +
+                        ".COPY - Sony Ericsson Protected Content Filenot specified\n" +
+                        ".CPR - Cubase Project FileAverage\n" +
+                        ".CWP - Cakewalk SONAR Projectnot specified\n" +
+                        ".DAC - DAC Sound FileAverage\n" +
+                        ".DCF - DRM Content Format FileAverage\n" +
+                        ".DCM - DCM Audio ModuleAverage\n" +
+                        ".DCT - Dictation Audio Filenot specified\n" +
+                        ".DFC - Defractor Instrumentnot specified\n" +
+                        ".DIG - Sound Designer Audio FileUncommon\n" +
+                        ".DSM - Digital Sound Modulenot specified\n" +
+                        ".DSS - Digital Speech Standard FileAverage\n" +
+                        ".DTS - Audio File FormatAverage\n" +
+                        ".DTSHD - DTS-HD Master AudioAverage\n" +
+                        ".DVF - Sony Compressed Audio Format Filenot specified\n" +
+                        ".EFA - Ensoniq ASR filenot specified\n" +
+                        ".EFE - Ensoniq EPS filenot specified\n" +
+                        ".EFK - Ensoniq KT filenot specified\n" +
+                        ".EFV - Ensoniq VFX-SD filenot specified\n" +
+                        ".EMD - ABT Extended MoDulenot specified\n" +
+                        ".EMX - eMusic Download Manager Download file formatCommon\n" +
+                        ".ENC - Encore Musical NotationAverage\n" +
+                        ".F64 - Raw 64-Bit Audio Filenot specified\n" +
+                        ".FL - Floating Sound FormatAverage\n" +
+                        ".FLAC - Free Lossless Audio Codec FileCommon\n" +
+                        ".FLP - Fruity Loops Project FileAverage\n" +
+                        ".FST - Studio State FileAverage\n" +
+                        ".G726 - G.726 Audio Filenot specified\n" +
+                        ".GNT - Letter-Art Filenot specified\n" +
+                        ".GPX - Guitar Pro 6 Document file formatCommon\n" +
+                        ".GSM - Audio stream Raw GSMnot specified\n" +
+                        ".GSM - eFax Messenger Plus Voice Messagenot specified\n" +
+                        ".HMA - Sony Connect (SonicStage) Audio FileAverage\n" +
+                        ".HTW - Hauptwerk Sound-fontAverage\n" +
+                        ".IFF - Interchange File FormatVery Common\n" +
+                        ".IKLAX - iKlax Multi-Track Audionot specified\n" +
+                        ".IMW - IncrediMail MIDI/WAVUncommon\n" +
+                        ".IMY - Ringtone FileAverage\n" +
+                        ".ITS - Impulse Tracker Samplenot specified\n" +
+                        ".IVC - Intervoice Audio FileAverage\n" +
+                        ".K26 - Kurzweil K2600 Filenot specified\n" +
+                        ".KAR - Karaoke MIDI FileAverage\n" +
+                        ".KFN - Audio Filenot specified\n" +
+                        ".KOE - AquesTone Vocal Synthesiser Syllable FileAverage\n" +
+                        ".KOZ - Audiokoz Music Filenot specified\n" +
+                        ".KOZ - Bell Music Filenot specified\n" +
+                        ".KPL - Kazaa Playlist FileAverage\n" +
+                        ".KTP - Kinetic Project Templatenot specified\n" +
+                        ".LQT - Liquid Audio Music Filenot specified\n" +
+                        ".LVP - Avaya Voice Player - Compressed Voice Audio Filenot specified\n" +
+                        ".M3U - Media Playlist FileVery Common\n" +
+                        ".M3U8 - MP3 Playlist File (UTF-8)Common\n" +
+                        ".M4A - MPEG-4 Audio LayerVery Common\n" +
+                        ".M4B - MPEG-4 Audio Book Filenot specified\n" +
+                        ".M4P - iTunes Audio Formatnot specified\n" +
+                        ".M4R - MPEG-4 Ringtone file formatCommon\n" +
+                        ".MA1 - Monarch Audio Filenot specified\n" +
+                        ".MID - Musical Instrument Digital Interface (MIDI) Sound FileVery Common\n" +
+                        ".MIDI - Musical Instrument Digital Interface (MIDI) Sound Filenot specified\n" +
+                        ".MINIUSF - Nintendo 64 Song FileUncommon\n" +
+                        ".MIO - MIO Compressed Audionot specified\n" +
+                        ".MKA - Matroska Audio file formatAverage\n" +
+                        ".MMF - Mobile Music FileAverage\n" +
+                        ".MON - Wavelab Audio Montage FileAverage\n" +
+                        ".MP2 - MPEG Audio StreamAverage\n" +
+                        ".MP3 - MP3 Audio FileVery Common\n" +
+                        ".MPA - MPEG Audio StreamVery Common\n" +
+                        ".MPC - Musepack Audio Filenot specified\n" +
+                        ".MPU - MPEG Layer 3 Audio Filenot specified\n" +
+                        ".MP_ - Mobile Phone Sound Filenot specified\n" +
+                        ".MSV - Sony Memory Stick Compressed Voice FileAverage\n" +
+                        ".MT2 - MadTracker 2 Modulenot specified\n" +
+                        ".MTE - MadTracker 2 Envelopenot specified\n" +
+                        ".MTP - MadTracker 2 Patternnot specified\n" +
+                        ".MUP - Music Publisher FileAverage\n" +
+                        ".MXP4 - Musinaut AudioAverage\n" +
+                        ".MZP - Mozart Percussion FileUncommon\n" +
+                        ".NCOR - Adobe Encore Project FileCommon\n" +
+                        ".NKI - KONTAKT Instrument FileCommon\n" +
+                        ".NRT - Nokia RingToneUncommon\n" +
+                        ".NSA - Nullsoft Streaming Audio Filenot specified\n" +
+                        ".NTN - NOTION Song Filenot specified\n" +
+                        ".NWC - Noteworthy Composer Song FileUncommon\n" +
+                        ".ODM - OverDrive Media Filenot specified\n" +
+                        ".OGA - Ogg Vorbis AudioVery Common\n" +
+                        ".OGG - Ogg Vorbis Codec Compressed WAV FileCommon\n" +
+                        ".OMA - Sony OpenMG Audio FileAverage\n" +
+                        ".OMG - OpenMG Audio Filenot specified\n" +
+                        ".OMX - OtsAV Media Library Information Filenot specified\n" +
+                        ".OTS - OtsAV Album Filenot specified\n" +
+                        ".OVE - Cakewalk Overture ScoreAverage\n" +
+                        ".PCAST - iTunes Podcast file formatCommon\n" +
+                        ".PEK - Adobe Peak Waveform FileCommon\n" +
+                        ".PLA - Playlist FileAverage\n" +
+                        ".PLS - PlayList FileCommon\n" +
+                        ".PNA - PhatNoise Audio Filenot specified\n" +
+                        ".PROG - Cakewalk Sonar Beatscape Preset Program FileUncommon\n" +
+                        ".PVC - Panasonic VM1 Voice Filenot specified\n" +
+                        ".QCP - Voice Filenot specified\n" +
+                        ".R1M - RealOne Streaming Media Filenot specified\n" +
+                        ".RA - RealMedia Streaming Audio FileVery Common\n" +
+                        ".RAM - RealMedia Metafilenot specified\n" +
+                        ".RAW - Raw Audio File Formatnot specified\n" +
+                        ".RAX - Real Music Store Audio Filenot specified\n" +
+                        ".REX - Audio Sample Filenot specified\n" +
+                        ".RFL - Reason ReFill Sound BankAverage\n" +
+                        ".RIF - Audio File in WAV formatUncommon\n" +
+                        ".RMJ - Real Media Jukebox Audio Filenot specified\n" +
+                        ".RNS - Reason Song FileCommon\n" +
+                        ".RSD - Roland Sound Filenot specified\n" +
+                        ".RSO - NXT Brick Audio Filenot specified\n" +
+                        ".RTI - Real Tracker Instrumentnot specified\n" +
+                        ".RX2 - REX2 Loop FileAverage\n" +
+                        ".SA1 - Audio Encryption FileAverage\n" +
+                        ".SBR - Spectral Band Replication Audio Sound FileAverage\n" +
+                        ".SD2 - Sound Designer 2 Flattened File / Data ForkAverage\n" +
+                        ".SFA - Sound Forge Audio FileCommon\n" +
+                        ".SGT - Microsoft DirectMusic Producer Segments FileUncommon\n" +
+                        ".SID - PlaySID C64 Sound Effects FileRare\n" +
+                        ".SMF - Standard Midi FileCommon\n" +
+                        ".SND - Apple Sound Resource FileCommon\n" +
+                        ".SNG - Midi song filenot specified\n" +
+                        ".SNS - Burnout Paradise Sound Filenot specified\n" +
+                        ".SPRG - Synclavier Program Filenot specified\n" +
+                        ".SSEQ - Synclavier Sequence Filenot specified\n" +
+                        ".SSND - Synclavier Sound Filenot specified\n" +
+                        ".SWA - ShockWave Audionot specified\n" +
+                        ".SYH - Synchomatic Instrumentnot specified\n" +
+                        ".SZ - Winamp Classic Skin DownloadAverage\n" +
+                        ".TAP - Wave Sound or Action WaveRare\n" +
+                        ".TRM - For The Record Voice Recording Filenot specified\n" +
+                        ".UL - Audio fileAverage\n" +
+                        ".USF - Nintendo 64 Music Filenot specified\n" +
+                        ".USFLIB - Nintendo 64 Song Librarynot specified\n" +
+                        ".USM - Unsigned Sample Module data FarandoleRare\n" +
+                        ".VAG - Sony PlayStation ADPCM Sound FileUncommon\n" +
+                        ".VMO - Siemens Mobile Phone Voice FileAverage\n" +
+                        ".VOI - Voyetra Voice Filenot specified\n" +
+                        ".VOX - Dialogic Voice FileAverage\n" +
+                        ".VPM - Garmin GPS Navigation Voice Filenot specified\n" +
+                        ".VRF - Ventrilo Audio Recordingnot specified\n" +
+                        ".VY1 - VY3 ETC - Audio Footage FileUncommon\n" +
+                        ".VYF - Samsung Digital Voice Recorder Filenot specified\n" +
+                        ".W01 - Yamaha SY Series Wave Filenot specified\n" +
+                        ".W64 - Wave64 FileAverage\n" +
+                        ".WAV - Waveform AudioVery Common\n" +
+                        ".WMA - Windows Media Audio FileVery Common\n" +
+                        ".WPROJ - Wwise ProjectAverage\n" +
+                        ".WRK - CakeWalk Project fileAverage\n" +
+                        ".WUS - WUTG Tagged Audio Filenot specified\n" +
+                        ".WUT - WUTG Tag Filenot specified\n" +
+                        ".WWU - Wwise Work Unitnot specified\n" +
+                        ".XFS - eRacer Sound Filenot specified\n" +
+                        ".ZGR - BeatCreator Loop FileAverage\n" +
+                        ".ZVR - SAFA Audio Recording File";

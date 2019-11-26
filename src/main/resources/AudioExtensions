@@ -1,0 +1,190 @@
+.3GA - 3GPP Audio FileAverage
+.AA - Audible Audio fileCommon
+.AA3 - ATRAC3 Audio FileCommon
+.AAC - Advanced Audio Coding FileVery Common
+.AAX - Audible Enhanced AudiobookAverage
+.ABC - Musical Notation Language Filenot specified
+.AC3 - Dolby Digital Audio Codec 3 file formatAverage
+.ACD - Acid Project FileAverage
+.ACD-ZIP - Sony Acid Project File (Inc Embedded Data)Average
+.ACM - InterPlay ACM Audio file formatAverage
+.ACT - ADPCM Audio FileAverage
+.ADG - Ableton Device GroupAverage
+.ADTS - Audio Data Transport Stream file formatAverage
+.AFC - Mass Effect 2 Audio FileAverage
+.AHX - WinAHX Tracker Modulenot specified
+.AIF - Audio Interchange FileVery Common
+.AIFC - Audio Interchange File (Compressed)not specified
+.AIFF - Audio Interchange FileVery Common
+.AL - ALAW Format SoundAverage
+.AMR - Adaptive Multi-Rate file formatCommon
+.AMZ - Amazon MP3 Downloader Download FileCommon
+.AOB - DVD-Audio Audio Object Filenot specified
+.APC - Cryo APC Audio file formatUncommon
+.APE - Monkeys Audio FileCommon
+.APF - Sony Ericsson Acoustics Settings Filenot specified
+.ATRAC - Sony ATRAC Audio Filenot specified
+.AU - Sun Audio File FormatAverage
+.AVR - Audio Visual Research filenot specified
+.AWB - AMR-WB Audio Filenot specified
+.AWB - Compressed Speech Audio Filenot specified
+.BAP - Blaze Audio Wave Information Filenot specified
+.BMW - BuzzPlay music with wavesAverage
+.CAF - Core Audio FileCommon
+.CDA - CD Audio Track ShortcutCommon
+.CFA - Conformed Audio FileCommon
+.CIDB - iTunes CD Information Filenot specified
+.COPY - Sony Ericsson Protected Content Filenot specified
+.CPR - Cubase Project FileAverage
+.CWP - Cakewalk SONAR Projectnot specified
+.DAC - DAC Sound FileAverage
+.DCF - DRM Content Format FileAverage
+.DCM - DCM Audio ModuleAverage
+.DCT - Dictation Audio Filenot specified
+.DFC - Defractor Instrumentnot specified
+.DIG - Sound Designer Audio FileUncommon
+.DSM - Digital Sound Modulenot specified
+.DSS - Digital Speech Standard FileAverage
+.DTS - Audio File FormatAverage
+.DTSHD - DTS-HD Master AudioAverage
+.DVF - Sony Compressed Audio Format Filenot specified
+.EFA - Ensoniq ASR filenot specified
+.EFE - Ensoniq EPS filenot specified
+.EFK - Ensoniq KT filenot specified
+.EFV - Ensoniq VFX-SD filenot specified
+.EMD - ABT Extended MoDulenot specified
+.EMX - eMusic Download Manager Download file formatCommon
+.ENC - Encore Musical NotationAverage
+.F64 - Raw 64-Bit Audio Filenot specified
+.FL - Floating Sound FormatAverage
+.FLAC - Free Lossless Audio Codec FileCommon
+.FLP - Fruity Loops Project FileAverage
+.FST - Studio State FileAverage
+.G726 - G.726 Audio Filenot specified
+.GNT - Letter-Art Filenot specified
+.GPX - Guitar Pro 6 Document file formatCommon
+.GSM - Audio stream Raw GSMnot specified
+.GSM - eFax Messenger Plus Voice Messagenot specified
+.HMA - Sony Connect (SonicStage) Audio FileAverage
+.HTW - Hauptwerk Sound-fontAverage
+.IFF - Interchange File FormatVery Common
+.IKLAX - iKlax Multi-Track Audionot specified
+.IMW - IncrediMail MIDI/WAVUncommon
+.IMY - Ringtone FileAverage
+.ITS - Impulse Tracker Samplenot specified
+.IVC - Intervoice Audio FileAverage
+.K26 - Kurzweil K2600 Filenot specified
+.KAR - Karaoke MIDI FileAverage
+.KFN - Audio Filenot specified
+.KOE - AquesTone Vocal Synthesiser Syllable FileAverage
+.KOZ - Audiokoz Music Filenot specified
+.KOZ - Bell Music Filenot specified
+.KPL - Kazaa Playlist FileAverage
+.KTP - Kinetic Project Templatenot specified
+.LQT - Liquid Audio Music Filenot specified
+.LVP - Avaya Voice Player - Compressed Voice Audio Filenot specified
+.M3U - Media Playlist FileVery Common
+.M3U8 - MP3 Playlist File (UTF-8)Common
+.M4A - MPEG-4 Audio LayerVery Common
+.M4B - MPEG-4 Audio Book Filenot specified
+.M4P - iTunes Audio Formatnot specified
+.M4R - MPEG-4 Ringtone file formatCommon
+.MA1 - Monarch Audio Filenot specified
+.MID - Musical Instrument Digital Interface (MIDI) Sound FileVery Common
+.MIDI - Musical Instrument Digital Interface (MIDI) Sound Filenot specified
+.MINIUSF - Nintendo 64 Song FileUncommon
+.MIO - MIO Compressed Audionot specified
+.MKA - Matroska Audio file formatAverage
+.MMF - Mobile Music FileAverage
+.MON - Wavelab Audio Montage FileAverage
+.MP2 - MPEG Audio StreamAverage
+.MP3 - MP3 Audio FileVery Common
+.MPA - MPEG Audio StreamVery Common
+.MPC - Musepack Audio Filenot specified
+.MPU - MPEG Layer 3 Audio Filenot specified
+.MP_ - Mobile Phone Sound Filenot specified
+.MSV - Sony Memory Stick Compressed Voice FileAverage
+.MT2 - MadTracker 2 Modulenot specified
+.MTE - MadTracker 2 Envelopenot specified
+.MTP - MadTracker 2 Patternnot specified
+.MUP - Music Publisher FileAverage
+.MXP4 - Musinaut AudioAverage
+.MZP - Mozart Percussion FileUncommon
+.NCOR - Adobe Encore Project FileCommon
+.NKI - KONTAKT Instrument FileCommon
+.NRT - Nokia RingToneUncommon
+.NSA - Nullsoft Streaming Audio Filenot specified
+.NTN - NOTION Song Filenot specified
+.NWC - Noteworthy Composer Song FileUncommon
+.ODM - OverDrive Media Filenot specified
+.OGA - Ogg Vorbis AudioVery Common
+.OGG - Ogg Vorbis Codec Compressed WAV FileCommon
+.OMA - Sony OpenMG Audio FileAverage
+.OMG - OpenMG Audio Filenot specified
+.OMX - OtsAV Media Library Information Filenot specified
+.OTS - OtsAV Album Filenot specified
+.OVE - Cakewalk Overture ScoreAverage
+.PCAST - iTunes Podcast file formatCommon
+.PEK - Adobe Peak Waveform FileCommon
+.PLA - Playlist FileAverage
+.PLS - PlayList FileCommon
+.PNA - PhatNoise Audio Filenot specified
+.PROG - Cakewalk Sonar Beatscape Preset Program FileUncommon
+.PVC - Panasonic VM1 Voice Filenot specified
+.QCP - Voice Filenot specified
+.R1M - RealOne Streaming Media Filenot specified
+.RA - RealMedia Streaming Audio FileVery Common
+.RAM - RealMedia Metafilenot specified
+.RAW - Raw Audio File Formatnot specified
+.RAX - Real Music Store Audio Filenot specified
+.REX - Audio Sample Filenot specified
+.RFL - Reason ReFill Sound BankAverage
+.RIF - Audio File in WAV formatUncommon
+.RMJ - Real Media Jukebox Audio Filenot specified
+.RNS - Reason Song FileCommon
+.RSD - Roland Sound Filenot specified
+.RSO - NXT Brick Audio Filenot specified
+.RTI - Real Tracker Instrumentnot specified
+.RX2 - REX2 Loop FileAverage
+.SA1 - Audio Encryption FileAverage
+.SBR - Spectral Band Replication Audio Sound FileAverage
+.SD2 - Sound Designer 2 Flattened File / Data ForkAverage
+.SFA - Sound Forge Audio FileCommon
+.SGT - Microsoft DirectMusic Producer Segments FileUncommon
+.SID - PlaySID C64 Sound Effects FileRare
+.SMF - Standard Midi FileCommon
+.SND - Apple Sound Resource FileCommon
+.SNG - Midi song filenot specified
+.SNS - Burnout Paradise Sound Filenot specified
+.SPRG - Synclavier Program Filenot specified
+.SSEQ - Synclavier Sequence Filenot specified
+.SSND - Synclavier Sound Filenot specified
+.SWA - ShockWave Audionot specified
+.SYH - Synchomatic Instrumentnot specified
+.SZ - Winamp Classic Skin DownloadAverage
+.TAP - Wave Sound or Action WaveRare
+.TRM - For The Record Voice Recording Filenot specified
+.UL - Audio fileAverage
+.USF - Nintendo 64 Music Filenot specified
+.USFLIB - Nintendo 64 Song Librarynot specified
+.USM - Unsigned Sample Module data FarandoleRare
+.VAG - Sony PlayStation ADPCM Sound FileUncommon
+.VMO - Siemens Mobile Phone Voice FileAverage
+.VOI - Voyetra Voice Filenot specified
+.VOX - Dialogic Voice FileAverage
+.VPM - Garmin GPS Navigation Voice Filenot specified
+.VRF - Ventrilo Audio Recordingnot specified
+.VY1 - VY3 ETC - Audio Footage FileUncommon
+.VYF - Samsung Digital Voice Recorder Filenot specified
+.W01 - Yamaha SY Series Wave Filenot specified
+.W64 - Wave64 FileAverage
+.WAV - Waveform AudioVery Common
+.WMA - Windows Media Audio FileVery Common
+.WPROJ - Wwise ProjectAverage
+.WRK - CakeWalk Project fileAverage
+.WUS - WUTG Tagged Audio Filenot specified
+.WUT - WUTG Tag Filenot specified
+.WWU - Wwise Work Unitnot specified
+.XFS - eRacer Sound Filenot specified
+.ZGR - BeatCreator Loop FileAverage
+.ZVR - SAFA Audio Recording FileRare
